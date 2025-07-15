@@ -31,6 +31,9 @@ Game ini dilengkapi dengan fitur:
 ## 🖼️ Access for Free
 https://amaejourney-umpo.netlify.app/
 
+## 🖼️ Access File Construct 2 for Free
+https://drive.google.com/drive/folders/1iDimqkWG7FLHvE7IO7icqRDCDYaJaCFY?usp=sharing
+
 ## 🧑‍🏫 Pengembang
 Game ini dikembangkan oleh:
 - **Imam Sa'id Nurfrendi** (21322031)
