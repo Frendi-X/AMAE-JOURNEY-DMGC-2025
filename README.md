@@ -32,5 +32,8 @@ Program Studi Pendidikan Matematika
 ### 🗺️ Halaman Petualangan (Level Selection)
 ![Adventure Page](https://github.com/Frendi-X/AMAE-JOURNEY-DMGC-2025/blob/main/png/AMAE%20JOURNEY%20Adventure%20Page%20DMGC%202025.png)
 
+### 🗺️ Halaman Permainan (Adventure Game)
+![Adventure Page](https://github.com/Frendi-X/AMAE-JOURNEY-DMGC-2025/blob/main/png/AMAE%20JOURNEY%20Adventure%20Play%20Game%20DMGC%202025.png)
+
 ## 📂 Acces for Free
 https://amaejourney-umpo.netlify.app/
