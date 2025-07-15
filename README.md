@@ -17,6 +17,20 @@ Game ini dilengkapi dengan fitur:
 - Menyediakan alternatif media pembelajaran interaktif
 - Menghubungkan konsep matematika dengan konteks permainan
 
+## 🖼️ Tampilan Game
+
+### 🏠 Halaman Utama (Main Menu)
+![Home Page](https://github.com/Frendi-X/AMAE-JOURNEY-DMGC-2025/blob/main/png/AMAE%20JOURNEY%20Home%20Page%20DMGC%202025.png)
+
+### 🗺️ Halaman Petualangan (Level Selection)
+![Adventure Page](https://github.com/Frendi-X/AMAE-JOURNEY-DMGC-2025/blob/main/png/AMAE%20JOURNEY%20Adventure%20Page%20DMGC%202025.png)
+
+### 🗺️ Halaman Petualangan (Adventure Play Game)
+![Adventure Page](https://github.com/Frendi-X/AMAE-JOURNEY-DMGC-2025/blob/main/png/AMAE%20JOURNEY%20Adventure%20Play%20Game%20DMGC%202025.png)
+
+## 🖼️ Access for Free
+https://amaejourney-umpo.netlify.app/
+
 ## 🧑‍🏫 Pengembang
 Game ini dikembangkan oleh:
 - **Imam Sa'id Nurfrendi** (21322031)
