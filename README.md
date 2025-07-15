@@ -27,10 +27,10 @@ Program Studi Pendidikan Matematika
 ## 🖼️ Tampilan Game
 
 ### 🏠 Halaman Utama (Main Menu)
-![Home Page](https://github.com/username/repo-name/blob/main/assets/AMAE%20JOURNEY%20Home%20Page%20DMGC%202025.png)
+![Home Page](https://github.com/Frendi-X/AMAE-JOURNEY-DMGC-2025/blob/main/png/AMAE%20JOURNEY%20Home%20Page%20DMGC%202025.png)
 
 ### 🗺️ Halaman Petualangan (Level Selection)
-![Adventure Page](https://github.com/username/repo-name/blob/main/assets/Adventure%20Page%20AMAE%20JOURNEY%20DMGC%202025.png)
+![Adventure Page](https://github.com/Frendi-X/AMAE-JOURNEY-DMGC-2025/blob/main/png/AMAE%20JOURNEY%20Adventure%20Page%20DMGC%202025.png)
 
 ## 📂 Struktur File
 ├── www/
