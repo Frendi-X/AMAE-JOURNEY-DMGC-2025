@@ -24,16 +24,11 @@ Game ini dikembangkan oleh:
 Program Studi Pendidikan Matematika  
 **Universitas Muhammadiyah Ponorogo**
 
-## 🖼️ Tampilan Game
+## Contacs us : 
+* [Frendi RoboTech](https://www.instagram.com/frendi.co/)
+* [Whatsapp : +6287888227410](https://wa.me/+6287888227410)
+* [Email    : frendirobotech@gmail.com](https://mail.google.com/mail/u/0/?view=cm&tf=1&fs=1&to=frendirobotech@gmail.com) atau [Email    : frendix45@gmail.com](https://mail.google.com/mail/u/0/?view=cm&tf=1&fs=1&to=frendix45@gmail.com)
 
-### 🏠 Halaman Utama (Main Menu)
-![Home Page](https://github.com/Frendi-X/AMAE-JOURNEY-DMGC-2025/blob/main/png/AMAE%20JOURNEY%20Home%20Page%20DMGC%202025.png)
-
-### 🗺️ Halaman Petualangan (Level Selection)
-![Adventure Page](https://github.com/Frendi-X/AMAE-JOURNEY-DMGC-2025/blob/main/png/AMAE%20JOURNEY%20Adventure%20Page%20DMGC%202025.png)
-
-### 🗺️ Halaman Permainan (Adventure Game)
-![Adventure Page](https://github.com/Frendi-X/AMAE-JOURNEY-DMGC-2025/blob/main/png/AMAE%20JOURNEY%20Adventure%20Play%20Game%20DMGC%202025.png)
-
-## 📂 Acces for Free
-https://amaejourney-umpo.netlify.app/
+## 👨‍💻 Author
+Dikembangkan oleh: [Imam Sa'id Nurfrendi - Robotech]  
+Untuk: Media Pembelajaran Interaktif Aljabar
