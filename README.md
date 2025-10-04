@@ -48,4 +48,4 @@ Program Studi Pendidikan Matematika
 
 ## 👨‍💻 Author
 Dikembangkan oleh: [Imam Sa'id Nurfrendi - Robotech]  
-Untuk: Media Pembelajaran Interaktif Aljabar
+Lisensi: Open Source (MIT)
